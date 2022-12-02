@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ^-^
+=======
+7.12.2022 16:20-17:50 Miercuri
+Urmatoarea ora de optional info
+>>>>>>> 85fec028ee4cc5c84888f1f3034d35183eeba06e
